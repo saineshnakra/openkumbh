@@ -96,4 +96,4 @@ We invite developers, data scientists, researchers, and civic authorities to joi
 - **Fork** the repository and contribute your ideas  
 - **Collaborate** with the community to shape the future of Kumbh Mela infrastructure  
 
-Together, let’s build a **smarter Kumbh Mela**!
+Together, let’s build a **smarter Kumbh at Nashik**!
