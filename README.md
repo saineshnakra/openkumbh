@@ -1,6 +1,6 @@
 # **openkumbh - The Open Source Data Layer for Kumbh Mela**  
 
-**OpenKumbh** is an open-source, developer-friendly platform designed to provide **structured, real-time, and geo-referenced data** for the **Kumbh Mela**—the world’s largest religious gathering. Our mission is to empower startups, researchers, and civic planners with the tools and data they need to build scalable, efficient, and impactful solutions for managing and enhancing the Kumbh Mela experience.  
+**OpenKumbh** is an open-source, developer-friendly platform designed to provide **structured, real-time, and geo-referenced data** for the **Nashik Kumbh**. Our mission is to empower startups, researchers, and civic planners with the tools and data they need to build scalable, efficient, and impactful solutions for managing and enhancing the Kumbh experience.  
 
 ---
 
@@ -8,7 +8,7 @@
 
 #### 1. **Zone-Based Data Layers**  
 - **Geospatial Zoning:**  
-  - Divides the entire Kumbh Mela region into well-defined **zones** for easier data management.  
+  - Divides the entire Kumbh region into well-defined **zones** for easier data management.  
   - Each zone contains detailed **geo-coordinates** and metadata, including landmarks, crowd capacity, and amenities.  
 - **Zone Classification:**  
   - **Permanent Zones** – Long-standing infrastructures like roads, temples, ghats, and administrative centers.  
